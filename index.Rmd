@@ -1,7 +1,7 @@
 ---
 title: "Home Range Analysis for Moose in Alberta Canada"
 author: Kirsten English
-output: html_notebook
+output: html_notebook 
 ---
 ```{r}
 library(adehabitatHR)
